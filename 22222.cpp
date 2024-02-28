@@ -12,4 +12,6 @@ int main()
 
 	printf("y: %lf\n", y);
 
+	y *= 2;
+	printf("y: %lf\n", y);
 }
